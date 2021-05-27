@@ -12,7 +12,7 @@ FluxTeam operates multiple Discord Bots so this Privacy Policy covers the all Se
 |:------------------|:------------------:|
 | **WordBot**#8832  | 708327119851356251 |
 | **KoiosBot**#7497 | 602590526398660634 |
-| **Postcard**#0363 | 736687951815114773 |
+| **Relay**#0363 | 736687951815114773 |
 | **FluxBot**#5715  | 788427094781853746 |
 
 ## Information Collection and Use
